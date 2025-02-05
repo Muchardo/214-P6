@@ -1,0 +1,39 @@
+*{
+
+}
+
+body{ 
+	background-color: lightpink;
+	color: hotpink;
+	text-align: center;
+	font-family: Monaco;
+ }
+
+img{ 
+	width: 30%;
+	height: 50%;
+	margin-bottom: 2%;
+	margin-top: 2%;
+ }
+
+.question{ 
+	background: url(heartbg.gif);
+	background-color: whitesmoke;
+	background-position: fixed;
+    background-repeat: space;
+    background-size: cover;
+	opacity: 0.9;
+	margin-top: 7%;
+	margin-bottom: 7%;
+	margin-left: 7%;
+	margin-right: 7%;
+	padding: 2%;
+	border-radius: 5%;
+	justify-content: center;
+ }
+
+.container{
+	background-color: whitesmoke;
+	padding: 2px;
+	text-align:center;
+}
